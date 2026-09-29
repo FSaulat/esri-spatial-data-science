@@ -6,7 +6,7 @@ Coursework and projects completed for the Esri Spatial Data Science certificate.
 
 ## Progress
 
-- [ ] Section 1: Introduction to Spatial Data Science
+- [X] Section 1: Introduction to Spatial Data Science
 - [ ] Section 2: The Spatial Approach to Predictive Analysis
 - [ ] Section 3: Finding Optimal Locations Using Suitability Models
 - [ ] Section 4: Pattern Detection and Clustering
