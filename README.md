@@ -11,7 +11,7 @@ Coursework and projects completed for the Esri Spatial Data Science certificate.
 - [X] Section 3: Finding Optimal Locations Using Suitability Models
 - [X] Section 4: Pattern Detection and Clustering
 - [X] Section 5: Object Detection with Deep Learning
-- [ ] Section 6: Communicating Results with Impact
+- [X] Section 6: Communicating Results with Impact
 
 ## Repository Structure
 
